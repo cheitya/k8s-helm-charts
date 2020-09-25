@@ -4,7 +4,7 @@ imagePullPolicy: Always
 disableAlerting: false
 deleteDevices: true
 debug: false
-enableRBAC: <<enableRBAC>>
+enableRBAC: "enableRBAC"
 clusterName: <<clusterName>>
 accessID: <<accessID>>
 accessKey: <<accessKey>>
