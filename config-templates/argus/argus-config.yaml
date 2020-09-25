@@ -5,8 +5,8 @@ disableAlerting: false
 deleteDevices: true
 debug: false
 enableRBAC: "enableRBAC"
-clusterName: <<clusterName>>
-accessID: <<accessID>>
+clusterName: "clusterName"
+accessID: "access.accessId"
 accessKey: <<accessKey>>
 account: <<account>>
 etcdDiscoveryToken: <<etcdDiscoveryToken>>
